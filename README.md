@@ -17,7 +17,6 @@ pip install numpy tensorflow matplotlib
 ```
 
 # Installations
-https://github.com/Afia-59/Mnist_CNN.git
 
 1. Clone this repository to your local machine:
 
